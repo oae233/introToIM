@@ -3,6 +3,6 @@ For this project I had an RGB LED light. I had 3 buttons, a yellow one that woul
 ### Circuit Diagram:
 ![](wheelCircuitDiagram.png)
 ### Images:
-![](wheel1.JPG)
+![](wheel1.jpg)
 
 
