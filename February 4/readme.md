@@ -4,5 +4,8 @@ For my Handless Switch assignment I decided to create a switch that operates whe
 ![](handlessCircuitDiagram.png)
 ### Images:
 ![](handless1)
+![](handless2)
+
+
 
 
