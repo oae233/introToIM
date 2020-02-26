@@ -3,8 +3,8 @@ For my Handless Switch assignment I decided to create a switch that operates whe
 ### Schematic:
 ![](handlessCircuitDiagram.png)
 ### Images:
-![](handless1)
-![](handless2)
+![](handless1.jpg)
+![](handless2.jpg)
 
 
 
