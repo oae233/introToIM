@@ -4,9 +4,9 @@ For this project I tried to make my own version of an Arcade Claw. When desiging
 ### Schematic:
 ![](toneCircuitDiagram.png)
 ### Images:
-![](claw 1.jpg)
-![](claw 2.jpg)
-![](claw 3.jpg)
-![](claw 4.JPG)
+![](March 5/claw 1.jpg)
+![](claw_2.jpg)
+![](claw_3.jpg)
+![](claw_4.JPG)
 
 
