@@ -7,7 +7,7 @@ One challenge I faced while coding the project was trying to code the game in a 
 
 [Here is a video](https://www.youtube.com/watch?v=Ij3IZzFp4rI)
 
-### Winning Sreen:
+### Winning Screen:
 ![](foodeater1.png)
 
 
