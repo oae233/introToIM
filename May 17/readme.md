@@ -7,7 +7,7 @@ In this game the player needs to cross the river to get to the magical door. In 
 -The player needs 2 tree logs to make one plank
 -If the charachters stamina falls to zero the player dies
 
-[Here is a video](https://www.youtube.com/watch?v=Ij3IZzFp4rI)
+[Here is a video](https://youtu.be/LQs54oYC7IQ)
 
 ### Images:
 ![](minecraft1.png)
